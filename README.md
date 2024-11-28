@@ -13,7 +13,7 @@ This project showcases **Exploratory Data Analysis (EDA)** using Python to uncov
 ## 🚀 How to Run  
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Sadam-Barkat/AtliQ_Hotel_Data_Analysis_Using_Python.git
     ```  
 2. Install dependencies:  
     ```bash
