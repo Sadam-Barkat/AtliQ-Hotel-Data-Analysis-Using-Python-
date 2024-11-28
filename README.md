@@ -1,36 +1,32 @@
 # Exploratory Data Analysis (EDA) with Python
 
-## Video Presentation
+## 🎥 Video Presentation  
+Watch the project presentation here: [YouTube Video](https://www.youtube.com/watch?v=ITNAzjVJKto)  
 
-Watch the project presentation here: [Video Link](https://www.youtube.com/watch?v=ITNAzjVJKto)
+## 📋 Overview  
+This project showcases **Exploratory Data Analysis (EDA)** using Python to uncover insights and visualize data effectively.  
 
-## Overview
+## 🛠️ Tools & Libraries  
+- **Pandas**: Data manipulation  
+- **Matplotlib & Seaborn**: Visualizations  
 
-This project performs exploratory data analysis (EDA) on a dataset using Python.
-
-## Tools
-
-- **Pandas**, **Matplotlib**, **Seaborn**, and others
-
-## How to Run
-
-1. Clone the repo:
+## 🚀 How to Run  
+1. Clone the repository:  
     ```bash
     git clone https://github.com/your-username/your-repository.git
-    ```
-2. Install dependencies:
+    ```  
+2. Install dependencies:  
     ```bash
     pip install -r requirements.txt
-    ```
-3. Run the notebook or script:
+    ```  
+3. Run the notebook or script:  
     ```bash
     jupyter notebook
     # or
     python your_script.py
-    ```
+    ```  
 
-## Files
-
-- **`EDA.ipynb`**: Jupyter Notebook with code and visualizations
-- **`data/`**: Dataset folder
-- **`requirements.txt`**: Dependencies list
+## 📂 Project Files  
+- **`EDA.ipynb`**: Jupyter Notebook containing EDA steps and visualizations  
+- **`data/`**: Folder containing datasets  
+- **`requirements.txt`**: List of dependencies  
